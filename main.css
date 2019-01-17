@@ -187,7 +187,6 @@ div.desc {
 }
 #encapsulate img{
     width: 100%;
-    margin-left: 10px 10px;
     display: block;
 }
 .page .enclose {
@@ -430,11 +429,6 @@ div.page {
     box-sizing: border-box;
 
 
-}
-#encapsulate {
-    width: 100%;
-    margin: 0;
-    padding: 0;
 }
 #encapsulate img{
     width: 100%;
